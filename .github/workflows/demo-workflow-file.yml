@@ -1,6 +1,6 @@
 
 
-name: Demo Python Workflow
+name: GitHub Actions Demo1
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 jobs:
